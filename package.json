@@ -1,0 +1,14 @@
+{
+  "name": "thinkage",
+  "version": "1.0.0",
+  "description": "Thinkage: a cooperative word-linking party game played on everyone's phone.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/sim.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": { "ws": "^8.18.0" }
+}
