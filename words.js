@@ -745,7 +745,7 @@ module.exports = {
     "Great Dane",
     "Wrecking Ball"
   ] },
-  bible: { name: "Bible & church history", words: [
+  bible: { name: "AI Generated Bible & church history", words: [
     "Adam",
     "Eve",
     "Cain",
